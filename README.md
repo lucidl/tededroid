@@ -12,6 +12,8 @@ put it in the Tededroid\app\src\main\assets directory.
 Tip: First use NotebookLM or NotebookLlama to make a summary or questions from the article and then you can read it carefully
 with this app.
 
+<video src="https://github.com/user-attachments/assets/9714922b-1bab-4075-835b-e1e719cbb0de" controls></video>
+
 ![new](https://github.com/lucidl/tededroid/assets/2452010/8bc5ec7e-c01b-4a3b-a586-cac8b682af3f)
 
 This app is powered by Crux, Readability4J, OpenNLP and Jsoup open-source libraries.
